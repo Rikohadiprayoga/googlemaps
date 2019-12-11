@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9c96e3c7610a71f64d933abf5d989c41\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\47bf1c1672b530aea741a2298486de75\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d5a39d8f51fcfc1b19c3ec4132b72e21\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8be5234bafda9ab14ed7f88c9dd40d77\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:11:22-76
+dist:module
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:13:5-40
+	dist:instant
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:13:18-37
+application
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:15:5-44:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:21:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.maps.MapsActivity
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b65fa85a56a3a1ae719dda6ca895c67b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9c96e3c7610a71f64d933abf5d989c41\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9c96e3c7610a71f64d933abf5d989c41\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3c6026bf367a81ae0b26f6a0755e7c5c\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\47bf1c1672b530aea741a2298486de75\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\47bf1c1672b530aea741a2298486de75\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8042381f1240df5f98ac8c5a464644dd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\2485cb75ca766726d2f85318526894e3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\f71f8da7ba118f56b7a69563a8255a28\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\5aa6e1ee8a4aa87ed09e4136bb1359d6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d5a39d8f51fcfc1b19c3ec4132b72e21\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\d5a39d8f51fcfc1b19c3ec4132b72e21\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8be5234bafda9ab14ed7f88c9dd40d77\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\8be5234bafda9ab14ed7f88c9dd40d77\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\621e01429d79a08e6530f2907ad873bf\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\SEMESTER 5\Android Praktikum\Maps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\de7b9ff37e7f321824e370d9f1bc2904\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\ead9d115ab7ab086077d5d0f2658e85d\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-2\files-2.1\c53f1598436bbe39e2a904c000790d00\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
